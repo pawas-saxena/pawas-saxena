@@ -800,3 +800,10 @@ fieldset {
         font-size: 10px;
     }
 }
+
+
+@media (max-width: 450px) {
+    #home{
+        background-position: 50% !important; 
+    }
+}
