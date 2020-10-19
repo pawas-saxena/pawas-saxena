@@ -756,6 +756,12 @@ fieldset {
     color: #425BB5;
 }
 
+.resume-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 /* Responsive media queries
 ==================================================*/
